@@ -33,6 +33,7 @@ p {
 .pubContainer {
   border-top: 1px solid #000;
   font-style: italic;
+  margin-top: 3em;
 }
 
 /* === CONTAINERS === */
