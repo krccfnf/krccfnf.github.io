@@ -32,8 +32,10 @@ p {
 
 .pubContainer {
   border-top: 1px solid #000;
-  font-style: italic;
   margin-top: 3em;
+  width: 60%;
+  position: absolute;
+  left: 0;
 }
 
 /* === CONTAINERS === */
