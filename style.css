@@ -51,6 +51,7 @@ p {
   padding: 3.5%;
   overflow: hidden;
   z-index: -1;
+  clear: left;
 }
 
 .sidebarImage {
