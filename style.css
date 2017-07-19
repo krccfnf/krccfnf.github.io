@@ -83,7 +83,6 @@ p {
   display: block;
   background-size: cover;
   -webkit-background-size: cover;
-  z-index: -1;
 }
 
 .imageMainContainer {
@@ -94,7 +93,6 @@ p {
   background: #FFF url("20170610_150308.jpg") no-repeat fixed center;
   background-size: cover;
   background-attachment: fixed;
-  z-index: -1;
   overflow: hidden;
 }
 
@@ -158,5 +156,4 @@ li.linav:hover {
   margin-top: 3.5%;
   padding: 0 3.5% 3.5% 3.5%;
   overflow: hidden;
-  z-index: -1;
 }
