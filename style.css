@@ -38,12 +38,11 @@ p {
   overflow: hidden;
   width: 300px;
   height: 100%;
-  position: fixed;
+  position: absolute;
   left: 0;
   background-color: #E8E8E8;
   margin-right: 300px;
   z-index: 100;
-  float: left;
 }
 
 .mainContainer {
@@ -52,7 +51,6 @@ p {
   padding: 3.5%;
   overflow: hidden;
   z-index: -1;
-  clear: left;
 }
 
 .sidebarImage {
