@@ -1,4 +1,4 @@
-/* === FROM NORMALIZE.CSS === */
+/* === FROM NORMALIZE.CSS -- https://necolas.github.io/normalize.css/ === */
 
 /* html {
   line-height: 1.15;
@@ -8,6 +8,10 @@
 
 img {
   border-style: none;
+}
+
+[hidden] {
+  display: none;
 }
 
 /* === GENERAL STYLE === */
