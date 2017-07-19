@@ -48,16 +48,11 @@ p {
   /*z-index: 100;*/
 }
 
-.sidebarExpander {
-  height: 100%;
-  position: fixed;
-}
-
 .mainContainer {
   margin-left: 300px;
   background-color: #FFF;
   padding: 3.5%;
-  overflow: hidden;
+  overflow: scroll;
   /*z-index: -1;*/
 }
 
