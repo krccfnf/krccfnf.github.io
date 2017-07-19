@@ -33,8 +33,11 @@ p {
 .pubContainer {
   border-top: 1px solid #808080;
   margin-top: 3em;
-  width: 60%;
-  text-align: left;
+  width: 80%;
+}
+
+.pubText {
+  padding: 0;
 }
 
 /* === CONTAINERS === */
