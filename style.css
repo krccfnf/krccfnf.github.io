@@ -10,6 +10,7 @@
 html, body {
   height: 100%;
   min-height: 100%;
+  position: relative;
 }
 
 h1 {
@@ -34,21 +35,23 @@ p {
 /*   background-color: E8E8E8;
   background-color: rgba(232, 232, 232, .75); */
 
-.mainPush {
+/*.mainPush {
   width: 300px;
   height: 100%;
   position: absolute;
   left: 0;
   overflow: hidden;
-}
+}*/
 
 .sidebarContainer {
   overflow: hidden;
   width: 300px;
   height: 100%;
   min-height: 100%;
-  position: fixed;
+  position: absolute;
   left: 0;
+  top: 0;
+  bottom: 0;
   background-color: #E8E8E8;
   margin-right: 300px;
   /*z-index: 100;*/
