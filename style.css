@@ -43,6 +43,7 @@ p {
   background-color: #E8E8E8;
   margin-right: 300px;
   z-index: 100;
+  float: left;
 }
 
 .mainContainer {
