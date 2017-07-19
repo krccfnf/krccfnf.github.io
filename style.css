@@ -41,6 +41,10 @@ p {
   padding-top: .5em;
 }
 
+.plainLink {
+  text-decoration: none;
+}
+
 /* === CONTAINERS === */
 
 .main {
