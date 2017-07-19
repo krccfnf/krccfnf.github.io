@@ -32,6 +32,17 @@ p {
 
 /* === CONTAINERS === */
 
+/*   background-color: E8E8E8;
+  background-color: rgba(232, 232, 232, .75); */
+
+/*.mainPush {
+  width: 300px;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  overflow: hidden;
+}*/
+
 .main {
   min-height: 100%;
   position: relative;
@@ -69,10 +80,40 @@ p {
   z-index: 1000;
 }
 
-.imageMainContainer {
-  margin-left: 300px;
+/*
+.contentImage {
+  padding: 0;
+  margin: 0;
+  object-fit: cover;
+  max-height: 100%;
+  max-width: 100%;
+  z-index: 5;
+}
+*/
+
+.imageMain {
+  overflow: hidden;
   left: 300px;
-  max-width: calc (100% - 300px); /* first three lines were commented out */
+  max-width: calc(100% - 300px);
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  position: relative;
+  padding: 0;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-position: center middle;
+  z-index: 10000;
+  display: block;
+  background-size: cover;
+  -webkit-background-size: cover;
+  z-index: -1;
+}
+
+.imageMainContainer {
+  /*margin-left: 300px;
+  left: 300px;
+  max-width: calc (100% - 300px);*/
   height: 100%;
   padding: 0;
   margin: 0;
@@ -133,6 +174,12 @@ li.linav a {
 li.linav:hover {
   background-color: #C9C9C9;
 }
+
+/*
+.active {
+  background-color: #C9C9C9;
+}
+*/
 
 /* === FOOTER === */
 .footer {
