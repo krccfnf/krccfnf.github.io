@@ -37,7 +37,8 @@ p {
 .sidebarContainer {
   overflow: hidden;
   width: 300px;
-  height: 100%;
+  height: auto;
+  min-height: 100%;
   position: absolute;
   left: 0;
   background-color: #E8E8E8;
