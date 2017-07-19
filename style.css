@@ -42,7 +42,7 @@ p {
   position: absolute;
   left: 0;
   top: 0;
-  bottom: 0;
+  margin-bottom: 0;
   background-color: #E8E8E8;
   margin-right: 300px;
   /*z-index: 100;*/
@@ -52,7 +52,7 @@ p {
   margin-left: 300px;
   background-color: #FFF;
   padding: 3.5%;
-  overflow: scroll;
+  overflow: hidden;
   /*z-index: -1;*/
 }
 
