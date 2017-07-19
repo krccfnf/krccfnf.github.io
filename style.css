@@ -37,17 +37,20 @@ p {
 .sidebarContainer {
   overflow: hidden;
   width: 300px;
-  /*height: auto;
-  min-height: 100%;*/
+  height: auto;
+  min-height: 100%;
   position: absolute;
-  display: block;
-  overflow: auto;
   left: 0;
   top: 0;
   bottom: 0;
   background-color: #E8E8E8;
   margin-right: 300px;
   /*z-index: 100;*/
+}
+
+.sidebarExpander {
+  height: 100%;
+  position: fixed;
 }
 
 .mainContainer {
