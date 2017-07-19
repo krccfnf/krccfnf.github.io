@@ -30,6 +30,11 @@ p {
   padding-bottom: 20px;
 }
 
+.pubContainer {
+  border-top: 1px solid #000;
+  font-style: italic;
+}
+
 /* === CONTAINERS === */
 
 .main {
