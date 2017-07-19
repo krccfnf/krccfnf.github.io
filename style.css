@@ -43,6 +43,11 @@ p {
   overflow: hidden;
 }*/
 
+.main {
+  min-height: 100%;
+  position: relative;
+}
+
 .sidebarContainer {
   overflow: hidden;
   width: 300px;
