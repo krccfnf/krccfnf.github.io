@@ -37,7 +37,8 @@ p {
 }
 
 .pubText {
-  padding: 0;
+  padding-left: .5em;
+  padding-top: .5em;
 }
 
 /* === CONTAINERS === */
