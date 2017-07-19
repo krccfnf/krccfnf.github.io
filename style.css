@@ -43,6 +43,7 @@ p {
 
 .plainLink {
   text-decoration: none;
+  color: #000;
 }
 
 /* === CONTAINERS === */
