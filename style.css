@@ -70,10 +70,6 @@ a:visited, a:active {
   color: #404040;
 }
 
-a:hover {
-  font-weight: bold;
-}
-
 /* === CONTAINERS === */
 
 .main {
