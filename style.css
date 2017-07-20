@@ -62,12 +62,16 @@ p {
   color: #000;
 }
 
-a:link, a:visited, a:active {
+a:link {
+  color: #000;
+}
+
+a:visited, a:active {
   color: #404040;
 }
 
 a:hover {
-  background-color: #BFBFBF;
+  font-weight: bold;
 }
 
 /* === CONTAINERS === */
