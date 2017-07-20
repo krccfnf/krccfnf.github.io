@@ -62,6 +62,14 @@ p {
   color: #000;
 }
 
+a:link, a:visited, a:active {
+  color: #404040;
+}
+
+a:hover {
+  background-color: #BFBFBF;
+}
+
 /* === CONTAINERS === */
 
 .main {
