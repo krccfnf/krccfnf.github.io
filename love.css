@@ -25,31 +25,3 @@
   position: fixed;
   z-index: -1;
 }
-
-<!-- === BEGIN 'LOVE' === -->
-
-* {
-    background-color: #000;
-}
-
-.hisWord {
-    position: absolute;
-}
-
-.herSoul {
-    display: inline;
-    overflow: hidden;
-}
-
-.hisBody {
-    top: 0;
-    background-size: cover;
-    z-index: 1;
-}
-
-.herBody {
-    padding: 0;
-    bottom: 0;
-    position: fixed;
-    z-index: -1;
-}
