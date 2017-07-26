@@ -194,6 +194,7 @@ li.linav:hover {
   font-size: 1em;
   text-align: right;
   position: absolute;
+  display: block;
   /*bottom: 0;
   right: 0;*/
   left: 300px;
