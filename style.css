@@ -201,6 +201,6 @@ li.linav:hover {
   margin-top: 20px;
   padding: 0 20px 20px 20px;
   overflow: hidden;
-  /* max-width: 350px; */
+  width: calc(100% - 300px);
   border: 1px solid #000;
 }
