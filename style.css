@@ -73,7 +73,7 @@ a:visited, a:active {
 /* === CONTAINERS === */
 
 .main {
-  min-height: 100%;
+  min-height: 500px;
   position: relative;
 }
 
