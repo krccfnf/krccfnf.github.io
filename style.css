@@ -195,10 +195,10 @@ li.linav:hover {
   text-align: right;
   position: absolute;
   display: block;
-  bottom: 0;
-  /*right: 0;*/
+  /* bottom: 0;
+  right: 0; */
   left: 300px;
-  margin-top: 20px;
+  margin-top: 200px;
   padding: 0 20px 20px 20px;
   overflow: hidden;
   width: calc(100% - 300px);
