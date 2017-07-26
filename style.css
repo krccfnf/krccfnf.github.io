@@ -81,7 +81,7 @@ a:visited, a:active {
   overflow: hidden;
   width: 300px;
   height: auto;
-  min-height: 500px;
+  min-height: 500px; /* MUST BE ADJUSTED WHEN YOU ADD NAV ITEMS */
   position: absolute;
   left: 0;
   top: 0;
@@ -181,6 +181,7 @@ li.linav a {
   color: #000000;
   text-align: center;
   text-decoration: none;
+  background-size: cover;
 }
 
 li.linav:hover {
