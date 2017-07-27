@@ -171,9 +171,9 @@ ul.ulnav li a {
   display: block;
   color: #000000;
   padding: 3.5%;
+  text-decoration: none;
   font-weight: bold;
   font-size: 1.25em;
-  /*width: 100%;*/
   text-align: center;
 }
 
@@ -204,7 +204,7 @@ li.linav a {
   display: block;
   color: #000000;
   text-align: center;
-  text-decoration: none;
+
   background-size: cover;
 }
 
