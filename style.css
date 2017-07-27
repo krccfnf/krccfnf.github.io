@@ -168,16 +168,16 @@ a:visited, a:active {
   z-index: 10;
 }
 
-.linav {
+/* .linav {
   float: left;
   padding: 3.5%;
   font-weight: bold;
   font-size: 1.25em;
   width: 100%;
   text-align: center;
-}
+} */
 
-li.linav a {
+li a {
   display: block;
   color: #000000;
   text-align: center;
@@ -185,7 +185,7 @@ li.linav a {
   background-size: cover;
 }
 
-li.linav:hover {
+li a:hover {
   background-color: #C9C9C9;
 }
 
