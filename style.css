@@ -185,7 +185,7 @@ li.linav a {
   background-size: cover;
 }
 
-li.linav a:hover {
+li.linav a:hover, li.linav:hover {
   background-color: #C9C9C9;
 }
 
