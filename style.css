@@ -159,6 +159,29 @@ a:visited, a:active {
   top: 200px;
 }
 
+ul.ulnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #E8E8E8;
+}
+
+ul.ulnav li a {
+  display: block;
+  color: #000000;
+  padding: 3.5%;
+  font-weight: bold;
+  font-size: 1.25em;
+  /*width: 100%;*/
+  text-align: center;
+}
+
+ul.ulnav li a:hover {
+  background-color: #C9C9C9;
+}
+
+/*
 .ulnav {
   list-style-type: none;
   margin: 0;
@@ -188,6 +211,7 @@ li.linav a {
 li.linav a:hover, li.linav:hover {
   background-color: #C9C9C9;
 }
+*/
 
 /* === FOOTER === */
 .footer {
