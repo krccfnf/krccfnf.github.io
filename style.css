@@ -1,11 +1,5 @@
 /* === FROM NORMALIZE.CSS -- https://necolas.github.io/normalize.css/ === */
 
-/* html {
-  line-height: 1.15;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-} */
-
 img {
   border-style: none;
 }
@@ -181,38 +175,6 @@ ul.ulnav li a:hover {
   background-color: #C9C9C9;
 }
 
-/*
-.ulnav {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #E8E8E8;
-  z-index: 10;
-}
-
-.linav {
-  float: left;
-  padding: 3.5%;
-  font-weight: bold;
-  font-size: 1.25em;
-  width: 100%;
-  text-align: center;
-}
-
-li.linav a {
-  display: block;
-  color: #000000;
-  text-align: center;
-
-  background-size: cover;
-}
-
-li.linav a:hover, li.linav:hover {
-  background-color: #C9C9C9;
-}
-*/
-
 /* === FOOTER === */
 .footer {
   color: #808080;
@@ -226,5 +188,4 @@ li.linav a:hover, li.linav:hover {
   margin-top: 20px;
   padding: 0 20px 20px 20px;
   overflow: hidden;
-  /* width: calc(100% - 300px); */
 }
