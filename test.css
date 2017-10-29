@@ -1,0 +1,56 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Crimson Text', Times, serif;
+  font-color: #000;
+}
+
+/* === NAV === */
+
+.nav {
+  padding: 2.5%;
+}
+
+.nav a {
+  font-size: 1.25em;
+  font-weight: bold;
+  font-decoration: none;
+}
+
+/* === POEM FORMAT === */
+
+.poem {
+  padding: 2.5%;
+}
+
+.poem h1 {
+  font-size: 2.8125em;
+  padding: 2.5% 0 2.5% 0;
+}
+
+.poem h2 {
+  font-size 1.875em;
+  font-style: italic;
+  padding: 2.5% 0 2.5% 5%;
+}
+
+.poem p {
+  font-size: 1.25em;
+  padding
+}
+
+.origPub {
+  border-top: 1px solid #000;
+  margin: 2.5% 0 2.5% 5%;
+}
+
+.origPub p {
+  padding: 2.5% 0 0 0;
+}
+
+/* === COPYRIGHT=== */
+
+.copy {
+  margin: 2.5% 0 0 2.5%;
+}
