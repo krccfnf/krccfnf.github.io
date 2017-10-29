@@ -9,7 +9,7 @@
 /* === NAV === */
 
 .nav {
-  padding: 2.5%;
+  padding: 3vw;
   font-size: 1.35em;
   font-weight: bold;
 }
@@ -47,12 +47,14 @@
 
 .origPub p {
   padding: 2.5% 0 0 0;
+  font-size: 1.35em;
 }
 
 /* === COPYRIGHT=== */
 
 .copy {
   margin: 2.5% 0 0 2.5%;
+  font-size: 1.35em;
 }
 
 /* === MOBILE === */
