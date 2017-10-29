@@ -9,7 +9,7 @@
 /* === NAV === */
 
 .nav {
-  padding: 3vw;
+  padding: 3vw 0 1.5vw 3vw;
   font-size: 1.35em;
   font-weight: bold;
 }
@@ -21,22 +21,22 @@
 /* === POEM FORMAT === */
 
 .poem {
-  padding: 2.5%;
+  padding: 1.5vw 0 1.5vw 3vw;
 }
 
 .poem h1 {
   font-size: 3.35em;
-  padding: 2.5% 0 2.5% 0;
+  padding: 1.5vw 0 1.5vw 0;
 }
 
 .poem h2 {
   font-size 2.35em;
-  padding: 2.5% 0 2.5% 5%;
+  padding: 1.5vw 0 1.5vw 1.5vw;
 }
 
 .poem p {
   font-size: 1.35em;
-  padding: 2.5% 0 2.5% 7.5%;
+  padding: 1.5vw 0 1.5vw 3vw;
 }
 
 .origPub {
