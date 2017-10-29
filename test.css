@@ -10,16 +10,11 @@
 
 .nav {
   padding: 2.5%;
-}
-
-.nav p {
   font-size: 1.25em;
   font-weight: bold;
 }
 
 .nav a {
-  font-size: 1.25em;
-  font-weight: bold;
   text-decoration: none;
 }
 
