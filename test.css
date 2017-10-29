@@ -12,6 +12,10 @@
   padding: 2.5%;
 }
 
+.nav p {
+  font-weight: bold;
+}
+
 .nav a {
   font-size: 1.25em;
   font-weight: bold;
