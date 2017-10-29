@@ -10,7 +10,7 @@
 
 .nav {
   padding: 2.5%;
-  font-size: 1.25em;
+  font-size: 1.35em;
   font-weight: bold;
 }
 
@@ -25,12 +25,12 @@
 }
 
 .poem h1 {
-  font-size: 3em;
+  font-size: 3.35em;
   padding: 2.5% 0 2.5% 0;
 }
 
 .poem h2 {
-  font-size 2em;
+  font-size 2.35em;
   padding: 2.5% 0 2.5% 5%;
 }
 
