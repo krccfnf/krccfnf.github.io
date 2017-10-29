@@ -60,7 +60,7 @@
 @media (max-width: 850px) {
   
   .origPub {
-    max-width: 100%;
+    width: 90%;
   }
   
 }
