@@ -54,6 +54,9 @@
 
 .copy {
   margin: 2.5% 0 0 2.5%;
+}
+
+.copy p {
   font-size: 1.35em;
 }
 
