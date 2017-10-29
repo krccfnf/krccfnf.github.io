@@ -55,3 +55,12 @@
 .copy {
   margin: 2.5% 0 0 2.5%;
 }
+
+/* === MOBILE === */
+@media (max-width: 850px) {
+  
+  .origPub {
+    max-width: 100%;
+  }
+  
+}
