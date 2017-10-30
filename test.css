@@ -9,7 +9,7 @@
 /* === NAV === */
 
 .nav {
-  padding: 3vw 0 1.5vw 3vw;
+  padding: 2% 0 1% 2%;
   font-size: 1.35em;
   font-weight: bold;
 }
@@ -21,7 +21,7 @@
 /* === POEM FORMAT === */
 
 .poem {
-  padding: 1.5vw 0 1.5vw 3vw;
+  padding: 1% 0 1% 2%;
 }
 
 .poem h1 {
@@ -63,8 +63,39 @@
 /* === MOBILE === */
 @media (max-width: 850px) {
   
+  /* === NAV === */
+
+  .nav {
+    padding: 4vw 0 2vw 4vw;
+  }
+  
+  /* === POEM === */
+  
+  .poem {
+    padding: 2vw 0 2vw 4vw;
+  }
+  
+  .poem h1 {
+    padding: 0 0 2vw 0;
+  }
+  
+  .poem h2 {
+    font-size 2.35em;
+    padding: 2vw 0 2vw 2vw;
+  }
+  
+  .poem p {
+    font-size: 1.35em;
+    padding: 2vw 0 2vw 4vw;
+  }
+  
   .origPub {
     width: 75%;
+    margin: 2vw 0 2vw 4vw;
+  }
+  
+  .origPub p {
+    padding: 2vw 0 0 0;
   }
   
 }
