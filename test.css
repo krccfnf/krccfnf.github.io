@@ -26,27 +26,27 @@
 
 .poem h1 {
   font-size: 3.35em;
-  padding: 0 0 1.5vw 0;
+  padding: 0 0 1vw 0;
 }
 
 .poem h2 {
   font-size 2.35em;
-  padding: 1.5vw 0 1.5vw 1.5vw;
+  padding: 1vw 0 1vw 2vw;
 }
 
 .poem p {
   font-size: 1.35em;
-  padding: 1.5vw 0 1.5vw 3vw;
+  padding: 1vw 0 1vw 4vw;
 }
 
 .origPub {
   border-top: 1px solid #000;
-  margin: 2.5% 0 2.5% 5%;
+  margin: 1vw 0 1vw 4vw;
   width: 55%;
 }
 
 .origPub p {
-  padding: 2.5% 0 0 0;
+  padding: 1vw 0 0 0;
   font-size: 1.35em;
 }
 
