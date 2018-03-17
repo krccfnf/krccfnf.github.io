@@ -25,17 +25,24 @@ html, body {
 
 /* === Main Page === */
 
+.imageButtonContainer {
+  margin: auto;
+  display: block;
+  width: 25%;
+}
+
 .imageButton {
   background: #000;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 25%;
-  /* padding: 3vw; */
+  max-idth: 100%;
+  max-height: 100%;
+  padding: 3vw;
 }
 
 .imageButton:hover {
-  opacity: .5;
+  opacity: .25;
 }
 
 
