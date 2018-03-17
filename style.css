@@ -37,7 +37,9 @@ html, body {
   background-color: #C9C9C9;
 }
 
-
+.imageLink {
+  display: inline-block;
+}
 
 
 
