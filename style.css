@@ -25,6 +25,11 @@ html, body {
 
 /* === Main Page === */
 
+.logoContainer {
+  display:block;
+  margin: auto;
+}
+
 .imageButtonContainer {
   margin: auto;
   display: block;
