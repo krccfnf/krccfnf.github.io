@@ -29,7 +29,7 @@ html, body {
   display:block;
   margin: auto;
   max-width: 100%;
-  padding: 1vw 1vw 2vw 1vw;
+  padding: 2vw 1vw 2vw 1vw;
 }
 
 .logo {
@@ -67,12 +67,12 @@ html, body {
   /* ===== MAIN PAGE ===== */
   
   .logo {
-    max-width: 50%;
-    max-height: 50%;
+    max-width: 60%;
+    max-height: 60%;
   }
 
   .imageButtonContainer {
-    width: 75%;
+    width: 60%;
   }
   
 }
