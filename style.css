@@ -60,9 +60,22 @@ html, body {
   opacity: .35;
 }
 
+/* === MOBILE === */
 
+@media (max-width: 850px) {
+    
+  /* ===== MAIN PAGE ===== */
+  
+  .logo {
+    max-width: 75%;
+    max-height: 75%;
+  }
 
-
+  .imageButtonContainer {
+    width: 25%;
+  }
+  
+}
 
 
 
