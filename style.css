@@ -91,9 +91,12 @@ p {
 
 /* === WRITINGS === */
 
-.writings ul, li {
-  font-size: 1.35em;
+.writings ul {
   padding: 0 0 1vw 6vw;
+}
+
+.writings li {
+  font-size: 1.35em;
 }
 
 .writings h2 {
@@ -180,7 +183,7 @@ p {
     padding: 0 0 2vw 8vw;
   }
   
-  .writings ul, li {
+  .writings ul {
     padding: 0 0 2vw 12vw;
   }
   
