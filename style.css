@@ -15,6 +15,7 @@ img {
   margin: 0;
   box-sizing: border-box;
   font-family: 'Crimson Text', Times, serif;
+  color: #000;
 }
 
 html, body {
@@ -97,6 +98,12 @@ html, body {
 .poem p {
   font-size: 1.35em;
   padding: 0 0 1vw 4vw;
+}
+
+.origPub {
+  border-top: 1px solid #000;
+  margin: 0 0 1vw 4vw;
+  width: 55%;
 }
 
 /* === MOBILE === */
