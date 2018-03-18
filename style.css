@@ -139,7 +139,7 @@ html, body {
   /* ===== CONTENT ==== */
   
   .content {
-    padding: 2vw 0 2vw 2vw;
+    padding: 4vw 0 2vw 4vw;
   }
   
   /* ===== POEM ===== */
@@ -160,7 +160,7 @@ html, body {
   }
 
   .origPub {
-    margin: 0 0 2vw 12vw;
+    margin: 0 0 2vw 8vw;
     width: 80%;
   }
 
