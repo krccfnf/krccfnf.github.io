@@ -26,10 +26,12 @@ html, body {
 
 h1 {
   font-size: 3.35em;
+  padding: 0 0 1vw 0;
 }
 
 p {
   font-size: 1.35em;
+  padding: 0 0 1vw 2vw;
 }
 
 /* === Main Page === */
@@ -126,7 +128,17 @@ p {
 /* === MOBILE === */
 
 @media (max-width: 850px) {
-    
+
+  /* ===== GENERAL STYLE ===== */
+  
+  h1 {
+    padding: 0 0 2vw 0;
+  }
+  
+  p {
+    padding: 0 0 2vw 4vw;
+  }
+  
   /* ===== MAIN PAGE ===== */
   
   .logo {
@@ -153,17 +165,14 @@ p {
   /* ===== POEM ===== */
   
   .poem h1 {
-    font-size: 3.35em;
     padding: 0 0 2vw 0;
   }
 
   .poem h2 {
-    font-size 2.35em;
     padding: 0 0 2vw 4vw;
   }
 
   .poem p {
-    font-size: 1.35em;
     padding: 0 0 2vw 8vw;
   }
 
@@ -174,7 +183,6 @@ p {
 
   .origPub p {
     padding: 2vw 0 2vw 0;
-    font-size: 1.35em;
   }
   
 }
