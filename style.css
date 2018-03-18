@@ -156,11 +156,11 @@ html, body {
 
   .poem p {
     font-size: 1.35em;
-    padding: 0 0 2vw 6vw;
+    padding: 0 0 2vw 8vw;
   }
 
   .origPub {
-    margin: 0 0 2vw 8vw;
+    margin: 0 0 2vw 12vw;
     width: 80%;
   }
 
