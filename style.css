@@ -29,6 +29,7 @@ html, body {
   display:block;
   margin: auto;
   max-width: 100%;
+  padding: 1vw;
 }
 
 .logo {
