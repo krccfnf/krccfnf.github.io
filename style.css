@@ -77,6 +77,20 @@ html, body {
   
 }
 
+  /* ===== MAIN PAGE LANDSCAPE ==== */
+
+@media (max-width: 850px) and (orientation: landscape) {
+  
+  .logo {
+    max-width: 40%;
+    max-height: 40%;
+  }
+
+  .imageButtonContainer {
+    width: 40%;
+  }
+  
+}
 
 
 /*
