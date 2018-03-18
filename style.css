@@ -106,6 +106,14 @@ html, body {
   width: 55%;
 }
 
+.origPub p {
+  padding: 1vw 0 1vw 0;
+}
+
+.origPub a {
+  text-decoration: none;
+}
+
 /* === MOBILE === */
 
 @media (max-width: 850px) {
