@@ -136,10 +136,6 @@ p {
   font-size: 1.35em;
 }
 
-.origPub a {
-  text-decoration: none;
-}
-
 /* === MOBILE === */
 
 @media (max-width: 850px) {
