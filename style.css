@@ -123,6 +123,7 @@ p {
 .poem p {
   font-size: 1.35em;
   padding: 0 0 1vw 4vw;
+  width: 75%;
 }
 
 .origPub {
@@ -195,6 +196,7 @@ p {
 
   .poem p {
     padding: 0 0 2vw 8vw;
+    width: 100%;
   }
 
   .origPub {
