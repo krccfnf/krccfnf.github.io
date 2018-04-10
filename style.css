@@ -34,6 +34,10 @@ p {
   padding: 0 0 1vw 2vw;
 }
 
+.indent {
+  padding-left: 1em;
+}
+
 /* === Main Page === */
 
 .logoContainer {
