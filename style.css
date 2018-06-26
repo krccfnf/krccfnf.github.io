@@ -134,8 +134,8 @@ p {
   border: 0;
   height: 1px;
   background: #000;
-  margin: 0 0 1vw 4vw;
-  width: 55%;
+  margin: 0 2vw 2vw 4vw;
+  width: 25%;
 }
 
 .origPub {
@@ -212,8 +212,8 @@ p {
   }
 
   .poem hr {
-  margin: 0 0 2vw 8vw;
-  width: 80%;
+  margin: 0 2vw 4vw 8vw;
+  width: 35%;
   }
   
   .origPub {
