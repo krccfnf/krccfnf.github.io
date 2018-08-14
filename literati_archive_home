@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Literati | Madison Undergraduate Society for English</title>
+    <link href="http://matthewstokdyk.com/literati_archive_style.css" type="text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <link href="http://matthewstokdyk.com/literati_archive_favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="description" content="Learn about Literati, the undergraduate English conference at UW-Madison.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+    <div class="litContainer">
+      <h1>Literati 2018</h1>
+      <h2>Transformations</h2>
+      <div class="buttonContainer1">
+        <div class="buttonContainer2">
+          <div class="litButton">
+            <a href="http://matthewstokdyk.com/literati_archive_submit">Submit</a>
+          </div>
+          <div class="litButton">
+            <a href="http://matthewstokdyk.com/literati_archive_about">Learn More</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
