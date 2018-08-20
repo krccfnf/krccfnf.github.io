@@ -59,6 +59,7 @@ p {
 .headerText {
   width: fill;
   margin: auto;
+  border: 1px solid #FFF;
 }
 
 .headerContent img {
