@@ -51,6 +51,7 @@ p {
 
 .headerContent {
   height: 100%;
+  width: 67%;
   display: block;
   margin: auto;
 }
