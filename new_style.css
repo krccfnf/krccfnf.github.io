@@ -56,12 +56,17 @@ p {
   margin: auto;
 }
 
+.headerText {
+  width: fill;
+  margin: auto;
+}
+
 .headerContent img {
   height: 90%;
   float: left;
 }
 
-.headerContent h1 {
+.headerText h1, h2 {
   color: #FFF;
 }
 
