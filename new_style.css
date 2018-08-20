@@ -49,6 +49,14 @@ p {
   height: 33%;
 }
 
+.headerContent {
+  
+}
+
+.headerContent img {
+  height: 90%;
+}
+
 /* === MAIN === */
 
 .main {
