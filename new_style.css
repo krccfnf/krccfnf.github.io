@@ -67,7 +67,11 @@ p {
   float: left;
 }
 
-.headerText h1 h2 {
+.headerText h2 {
+  color: #FFF;
+}
+
+.headerText h1 {
   color: #FFF;
 }
 
