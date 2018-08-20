@@ -50,6 +50,7 @@ p {
 }
 
 .headerContent {
+  height: 100%;
   display: block;
   margin: auto;
 }
