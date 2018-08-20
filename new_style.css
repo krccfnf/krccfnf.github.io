@@ -58,6 +58,7 @@ p {
 
 .headerContent img {
   height: 90%;
+  float: left;
 }
 
 .headerContent h1 {
