@@ -26,10 +26,12 @@ html, body {
 
 h1 {
   font-size: 6em;
+  padding: 0 0 1em 0;
 }
 
 h2 {
   font-size: 3em;
+  padding: 0 0 1em 0;
 }
 
 p {
@@ -49,10 +51,17 @@ p {
 
 .main {
   width: 100%;
-  padding: 10% 16.5%;
+  padding: 5% 16.5%;
   background-color: #FFF;
 }
 
 .author {
   color: #808080;
+  padding: 0 0 1em 0;
+}
+
+/* === ARTICLE === */
+
+.article p {
+  text-align: justify;
 }
