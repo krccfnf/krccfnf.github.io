@@ -116,7 +116,7 @@ p {
   overflow: hidden;
   text-align: left;
   font-size: 3em;
-  margin: 2em;
+  padding: 2em;
 }
 
 .tile p:hover {
