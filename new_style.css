@@ -93,3 +93,17 @@ p {
 .article p {
   text-align: justify;
 }
+
+/* === TILES === */
+
+.tile {
+  width: 33.33%;
+  float:left;
+  padding: 0;
+  background-color: #800080;
+  border: 1px solid #000;
+}
+
+.tile:hover {
+  opacity: .35;
+}
