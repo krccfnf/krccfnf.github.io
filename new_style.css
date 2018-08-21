@@ -98,18 +98,21 @@ p {
 
 .tile {
   width: 33.33%;
-  height: 40vh;
+  height: 50vh;
   float:left;
-  padding: 0;
+  padding: 0 5% 5% 5%;
   background-color: #800080;
   border: 1px solid #000;
 }
 
 .tile:hover {
   opacity: .35;
+  background-color: #00FFFF;
+  font-color: #000;
 }
 
 .tile p {
-  font-color: #000;
-  
+  font-color: #FFF;
+  overflow: hidden;
+  text-align: left;
 }
