@@ -102,13 +102,12 @@ p {
   float:left;
   margin: 0 2.5% 2.5% 2.5%;
   background-color: #800080;
-  border: 1px solid #000;
+  /* border: 1px solid #000; */
 }
 
 .tile:hover {
   opacity: .35;
   background-color: #00FFFF;
-  color: #000;
 }
 
 .tile p {
@@ -116,4 +115,9 @@ p {
   overflow: hidden;
   text-align: left;
   font-size: 3em;
+  margin: 2em;
+}
+
+.tile p:hover {
+  color: #000;
 }
