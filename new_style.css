@@ -98,6 +98,7 @@ p {
 
 .tile {
   width: 33.33%;
+  height: 40%;
   float:left;
   padding: 0;
   background-color: #800080;
