@@ -69,12 +69,14 @@ p {
 }
 
 .headerText {
+  position: relative;
   width: fill;
   margin: auto;
   border: 1px solid #FFF;
 }
 
 .headerMenu {
+  position: relative;
   border: 1px solid #FFF;
 }
 
