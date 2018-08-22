@@ -53,6 +53,11 @@ p {
   height: 33%;
 }
 
+.headerLogo {
+  height: 50%;
+  weight: 100%;
+}
+
 .headerContent {
   height: 100%;
   width: 67%;
@@ -66,7 +71,7 @@ p {
   border: 1px solid #FFF;
 }
 
-.headerContent img {
+.headerLogo img {
   width: 100%;
 }
 
