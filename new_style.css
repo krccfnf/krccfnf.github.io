@@ -53,11 +53,6 @@ p {
   height: 33%;
 }
 
-.headerLogo {
-  height: calc(100% - 3em);
-  width: 100%;
-}
-
 .headerContent {
   height: 100%;
   width: 67%;
@@ -65,7 +60,12 @@ p {
   margin: auto;
 }
 
-.headerMenu {
+.headerLogo {
+  height: 100% - 3em;
+  float: left;
+}
+
+.headerText {
   width: fill;
   margin: auto;
   border: 1px solid #FFF;
@@ -78,7 +78,9 @@ p {
 }
 
 .headerText h2 {
+  font-family: 'Crimson Text', Times, serif;
   color: #FFF;
+  font-size: 6em;
 }
 
 .headerText h1 {
