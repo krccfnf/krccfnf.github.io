@@ -72,6 +72,10 @@ p {
   border: 1px solid #FFF;
 }
 
+.headerMenu {
+  border: 1px solid #FFF;
+}
+
 .headerLogo img {
   height: 100%;
 }
@@ -84,6 +88,7 @@ p {
 
 .headerText h1 {
   color: #FFF;
+  padding: 0;
 }
 
 /* === MAIN === */
