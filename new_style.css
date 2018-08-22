@@ -70,10 +70,9 @@ p {
   border: 1px solid #FFF;
 }
 
-/* .headerContent img {
-  height: 90%;
-  float: left;
-} */
+.headerLogo img {
+  object-fit: contain;
+}
 
 .headerText h2 {
   color: #FFF;
