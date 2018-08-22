@@ -55,7 +55,7 @@ p {
 
 .headerLogo {
   height: 50%;
-  weight: 100%;
+  width: 100%;
 }
 
 .headerContent {
@@ -72,7 +72,7 @@ p {
 }
 
 .headerLogo img {
-  width: 100%;
+  height: 100%;
 }
 
 .headerText h2 {
