@@ -61,9 +61,10 @@ p {
 }
 
 .headerLogo {
+  position: absolute;
+  left: 0;
   height: 100%;
   width: auto;
-  float: left;
 }
 
 .headerText {
