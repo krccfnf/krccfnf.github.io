@@ -40,6 +40,10 @@ p {
   font-size: 1.5em;
 }
 
+.indent {
+  margin: 0 0 0 3em;
+}
+
 /* === HEADER === */
 
 .headerSpace {
@@ -56,16 +60,20 @@ p {
   margin: auto;
 }
 
-.headerText {
+.headerLogo {
+  height: 67%;
+}
+
+.headerMenu {
   width: fill;
   margin: auto;
   border: 1px solid #FFF;
 }
 
-.headerContent img {
+/* .headerContent img {
   height: 90%;
   float: left;
-}
+} */
 
 .headerText h2 {
   color: #FFF;
