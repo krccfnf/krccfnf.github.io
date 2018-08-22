@@ -54,6 +54,7 @@ p {
 }
 
 .headerContent {
+  position: relative;
   height: 100%;
   width: 67%;
   display: block;
