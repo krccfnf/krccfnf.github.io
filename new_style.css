@@ -60,10 +60,6 @@ p {
   margin: auto;
 }
 
-.headerLogo {
-  height: 67%;
-}
-
 .headerMenu {
   width: fill;
   margin: auto;
@@ -71,7 +67,7 @@ p {
 }
 
 .headerContent img {
-  object-fit: contain;
+  width: 100%;
 }
 
 .headerText h2 {
