@@ -61,7 +61,8 @@ p {
 }
 
 .headerLogo {
-  height: 100% - 3em;
+  height: 100%;
+  width: auto;
   float: left;
 }
 
@@ -72,9 +73,7 @@ p {
 }
 
 .headerLogo img {
-  display: block;
   height: 100%;
-  margin: auto;
 }
 
 .headerText h2 {
