@@ -74,7 +74,6 @@ p {
   height: 100%;
   width: fill;
   margin: 0 0 0 22vh;
-  border: 1px solid #FFF;
 }
 
 .headerText2 {
@@ -84,12 +83,12 @@ p {
 }
 
 .headerName {
-  color: #FFF;
+  margin: auto;
 }
 
 .headerMenu {
-  position: relative;
-  border: 1px solid #FFF;
+  margin: auto;
+  color: #FFF;
 }
 
 .headerLogo img {
