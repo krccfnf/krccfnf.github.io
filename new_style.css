@@ -83,10 +83,12 @@ p {
 }
 
 .headerName {
+  display: block;
   margin: auto;
 }
 
 .headerMenu {
+  display: block;
   margin: auto;
   color: #FFF;
 }
