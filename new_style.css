@@ -88,6 +88,7 @@ p {
 }
 
 .headerMenu {
+  height: 6em;
   display: block;
   margin: auto;
   color: #FFF;
