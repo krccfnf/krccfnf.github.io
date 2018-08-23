@@ -69,11 +69,17 @@ p {
   width: auto;
 }
 
-.headerText {
-  /* position: relative; */
+.headerText1 {
+  position: relative;
   width: fill;
   margin: 0 0 0 22vh;
   border: 1px solid #FFF;
+}
+
+.headerText2 {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 .headerMenu {
