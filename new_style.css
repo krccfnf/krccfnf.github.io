@@ -71,6 +71,7 @@ p {
 
 .headerText1 {
   position: relative;
+  height: 100%;
   width: fill;
   margin: 0 0 0 22vh;
   border: 1px solid #FFF;
