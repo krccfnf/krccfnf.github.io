@@ -85,14 +85,11 @@ p {
   height: 100%;
 }
 
-.headerText h2 {
-  font-family: 'Crimson Text', Times, serif;
-  color: #FFF;
-  font-size: 6em;
-}
-
 .headerText h1 {
+  font-family: 'Crimson Text', Times, serif;
+  font-size: 6em;
   color: #FFF;
+  text-align: center;
   padding: 0;
 }
 
