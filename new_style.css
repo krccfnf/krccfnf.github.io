@@ -83,6 +83,10 @@ p {
   transform: translateY(-50%);
 }
 
+.headerName {
+  color: #FFF;
+}
+
 .headerMenu {
   position: relative;
   border: 1px solid #FFF;
@@ -92,7 +96,7 @@ p {
   height: 100%;
 }
 
-.headerText h1 {
+.headerName h1 {
   font-family: 'Crimson Text', Times, serif;
   font-size: 6em;
   color: #FFF;
