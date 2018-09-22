@@ -62,10 +62,9 @@ p {
 }
 
 .headerLogo {
-  /* position: absolute;
-  left: 0; */
+  margine: auto;
   float: left;
-  height: 33vh;
+  height: 6em;
   width: auto;
 }
 
