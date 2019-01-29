@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>doggerel | Matthew Stokdyk</title>
+    <link href="https://matthewstokdyk.com/style.css" type="text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
+    <link href="https://matthewstokdyk.com/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="description" content="doggerel, HTML version.">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+    <div class="nav">
+      <a href="https://matthewstokdyk.com">home</a>&emsp;&bull;&emsp;<a href="https://matthewstokdyk.com/writings">writings</a>&emsp;&#47;&emsp;doggerel (HTML Version)
+    </div>
+    <div class="content">
+      <div class="poem">
+        <h1>doggerel</h1>
+          <h2>a chapbook of bad poetry by matthew stokdyk</h2>
+            <hr>
+            <p><span style="font-weight:bold">contents</span></p><br />
+            <ul><li>front matter</li>
+              <li>poems</li>
+              <li>acknowledgements</li>
+            </ul>
+            <hr>
+            <p><span style="font-weight:bold"><span style="font-style:italic">Greek Anthology</span> 5.57 (of Meleager)</span><br /><br />
+            <span style="font-family:'EB Garamond'">τὴν περιφρυγομένην ψυχὴν ἂν πολλάκι καίῃς,<br />
+            φεύξετ᾽, Ἔρως: καὐτή, σχέτλι᾽, ἔχει πτέρυγας.</span><br /><br />
+            My scorched soul will fly off, Eros,<br />
+            if you should burn her too often,<br />
+            for she, cruel boy, has wings too.</p>
+            <hr>
+            <p><span style="font-weight:bold"><span style="font-style:italic">Greek Anthology</span> 5.78 (of Plato)</span><br /><br />
+            <span style="font-family:'EB Garamond'">τὴν ψυχήν, Ἀγάθωνα φιλῶν, ἐπὶ χείλεσιν ἔσχον<br />
+            ἦλθε γὰρ ἡ τλήμων ὡς διαβησομένη.</span><br /><br />
+            My soul, when I was kissing Agathon, I bore upon my lips;<br />
+            it came—the wretched, steadfast thing—as if to take itself across.<br /></p>
+            <hr>
+            <p><span style="font-weight:bold"><span style="font-style:italic">Greek Anthology</span> 5.295 (of Leontius)</span><br /><br />
+            <span style="font-family:'EB Garamond'">ψαῦε μελισταγέων στομάτων, δέπας: εὗρες, ἄμελγε:<br />
+            οὐ φθονέω, τὴν σὴν δ᾽ ἤθελον αἶσαν ἔχειν.</span><br /><br />
+            Touch their honey-dripping lips, cup; you found them, now suckle;<br />
+            I do not begrudge you, but I wish I could have your fate.</p>
+            <hr>
+            <p><span style="font-weight:bold"><span style="font-style:italic">Greek Anthology</span> 5.90 (Anonymous)</span><br /><br />
+            <span style="font-family:'EB Garamond'">πέμπω σοι μύρον ἡδύ, μύρῳ τὸ μύρον θεραπεύων,<br />
+            ὡς Βρομίῳ σπένδων νᾶμα τὸ τοῦ Βρομίου.</span><br /><br />
+            I am sending you sweet perfume, attending to perfume with perfume,<br />
+            just like one offering to Bromius the flowing libation of Bromius.</p>
+            <hr>
+            <p><span style="font-weight:bold"><span style="font-style:italic">Greek Anthology</span> 5.98 (of Archias or Anonymous)</span><br /><br />
+            <span style="font-family:'EB Garamond'">ὁπλίζευ, Κύπρι, τόξα, καὶ εἰς σκοπὸν ἥσυχος ἐλθὲ<br />
+            ἄλλον ἐγὼ γὰρ ἔχω τραύματος οὐδὲ τόπον.</span><br /><br />
+            Ready your bow, Cypress, and quietly find a new target,<br />
+            for I have no room for another wound.</p>
+            <hr>
+            <p id="Sappho_2"><span style="font-weight:bold">Sappho 2</span><br /><br />
+            Come here from Crete to this holy temple,<br />
+            where there is a beautiful grove<br />
+            of apple trees, and altars smoking<br />
+            with frankincense—<br /><br />
+            In this place, cold water resounds through the apple branches,<br />
+            and roses overshadow the whole place,<br />
+            and deep sleep streams down<br />
+            from the quivering leaves—<br /><br />
+            In this place is a meadow where horses graze,<br />
+            that blooms with spring flowers, sweet-smelling,<br />
+            and blown by gentle breezes [...]—<br /><br />
+            Here you, Cypress, pray take up the wreathes<br />
+            and delicately pour the nectar<br />
+            into golden wine-cups, mixing it<br />
+            in our celebration.</p>
+            <hr>
+            <p><span style="font-weight:bold">Sappho 36</span><br /><br />
+            <span style="font-family:'EB Garamond'">καὶ ποθήω καὶ μάομαι...</span><br /><br />
+            and I long for and desire—<br />
+            <span style="padding-left:10.5em">[you?]</span></p>
+            <div class="origPub"><p><br /><br />
+            Matthew Stokdyk &#169; 2018. All rights reserved.</p></div>
+      </div>
+    </div>
+  </body>
+</html>
