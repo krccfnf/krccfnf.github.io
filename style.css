@@ -42,6 +42,11 @@ p {
   padding-left: 2em;
 }
 
+ul, li {
+  font-size: 1.35em;
+  padding: inherit;
+}
+
 /* === Main Page === */
 
 .logoContainer {
