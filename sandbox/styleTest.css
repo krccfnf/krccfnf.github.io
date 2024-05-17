@@ -261,10 +261,10 @@ p {
 
 .boxInner {
   position: absolute;
-  left: 1vw;
-  right: 1vw;
-  top: 1vw;
-  bottom: 1vw;
+  left: .75vw;
+  right: .75vw;
+  top: .75vw;
+  bottom: .75vw;
   overflow: hidden;
 }
 
@@ -279,7 +279,7 @@ p {
 @media only screen and (max-width : 850px) {
 
   .indent2 {
-    padding: 0 8vw 0 4vw;
+    padding: 0 6vw 0 4vw;
   }
   
   .box {
@@ -292,7 +292,7 @@ p {
 @media (max-width: 850px) and (orientation: landscape) {
 
   .indent2 {
-    padding: 0 8vw 0 4vw;
+    padding: 0 6vw 0 4vw;
   }
     
   .box {
