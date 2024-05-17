@@ -254,6 +254,7 @@ footer {
 }
 
 .indent2 {
+  overflow: hidden;
   padding: 0 4vw 8vw 2vw;
 }
 
