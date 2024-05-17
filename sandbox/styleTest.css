@@ -248,6 +248,10 @@ p {
 
 /* === NEW WRITINGS TILES -- Modified from code by Nathan Rohler. === */
 
+.foot body {
+  padding-bottom: 50px;
+}
+
 .indent2 {
   padding: 0 4vw 4vw 2vw;
   margin-bottom: 8vw;
