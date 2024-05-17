@@ -250,6 +250,7 @@ p {
 
 .indent2 {
   padding: 0 4vw 4vw 2vw;
+  margin-bottom: 4vw;
 }
 
 .box {
@@ -280,6 +281,7 @@ p {
 
   .indent2 {
     padding: 0 6vw 6vw 4vw;
+    margin-bottom: 6vw;
   }
     
   .box {
@@ -300,6 +302,7 @@ p {
 
   .indent2 {
     padding: 0 6vw 6vw 4vw;
+    margin-bottom: 6vw;
   }
   
   .box {
