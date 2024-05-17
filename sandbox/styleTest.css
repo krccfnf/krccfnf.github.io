@@ -278,12 +278,7 @@ p {
 }
 
 .boxLast {
-  position: absolute;
-  left: .75vw;
-  right: .75vw;
-  top: .75vw;
   bottom: 2vw;
-  overflow: hidden;
 }
 
 @media (max-width: 850px) {
