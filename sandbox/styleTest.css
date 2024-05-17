@@ -275,21 +275,8 @@ p {
 .boxInner:hover {
   opacity: .35;
 }
-    
-@media only screen and (max-width : 850px) {
 
-  .indent2 {
-    padding: 0 6vw 0 4vw;
-  }
-  
-  .box {
-    width: 100%;
-    padding-bottom: 100%;
-  }
-  
-}
-
-@media (max-width: 850px) and (orientation: landscape) {
+@media (max-width: 850px) {
 
   .indent2 {
     padding: 0 6vw 0 4vw;
@@ -299,5 +286,32 @@ p {
     width: 50%;
     padding-bottom: 50%;
     }
-  
+
+  .boxInner {
+    left: 1.5vw;
+    right: 1.5vw;
+    top: 1.5vw;
+    bottom: 1.5vw;
   }
+  
+ }
+    
+@media (max-width : 480px) {
+
+  .indent2 {
+    padding: 0 6vw 0 4vw;
+  }
+  
+  .box {
+    width: 100%;
+    padding-bottom: 100%;
+  }
+
+  .boxInner {
+    left: 1.5vw;
+    right: 1.5vw;
+    top: 1.5vw;
+    bottom: 1.5vw;
+  }
+  
+}
