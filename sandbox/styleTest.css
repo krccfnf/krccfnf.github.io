@@ -248,8 +248,9 @@ p {
 
 /* === NEW WRITINGS TILES -- Modified from code by Nathan Rohler. === */
 
-.foot body {
-  padding-bottom: 50px;
+footer {
+  position: absolute;
+  bottom: 0;
 }
 
 .indent2 {
