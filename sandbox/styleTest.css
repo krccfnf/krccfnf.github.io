@@ -277,6 +277,10 @@ p {
   opacity: .35;
 }
 
+.boxLast {
+  bottom: 2vw;
+}
+
 @media (max-width: 850px) {
 
   .indent2 {
