@@ -248,6 +248,10 @@ p {
 
 /* === NEW WRITINGS TILES -- Modified from code by Nathan Rohler. === */
 
+.indent2 {
+  padding: 1vw 0 0 4vw;
+}
+
 .box {
   float: left;
   position: relative;
