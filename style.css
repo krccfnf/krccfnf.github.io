@@ -245,3 +245,80 @@ p {
   }
   
 }
+
+/* === NEW WRITINGS TILES -- Modified from code by Nathan Rohler. === */
+
+footer {
+  position: absolute;
+  bottom: 0;
+}
+
+.indent2 {
+  overflow: hidden;
+  padding: 0 4vw 2vw 2vw;
+}
+
+.box {
+  float: left;
+  position: relative;
+  width: 25%;
+  padding-bottom: 25%;
+}
+
+.boxInner {
+  position: absolute;
+  left: .75vw;
+  right: .75vw;
+  top: .75vw;
+  bottom: .75vw;
+  overflow: hidden;
+}
+
+.boxInner img {
+  width: 100%;
+}
+
+.boxInner:hover {
+  opacity: .35;
+}
+
+@media (max-width: 850px) {
+
+  .indent2 {
+    padding: 0 6vw 4vw 4vw;
+  }
+    
+  .box {
+    width: 50%;
+    padding-bottom: 50%;
+    }
+
+  .boxInner {
+    left: 1.5vw;
+    right: 1.5vw;
+    top: 1.5vw;
+    bottom: 1.5vw;
+  }
+  
+ }
+    
+@media (max-width : 480px) {
+
+  .indent2 {
+    padding: 0 6vw 4vw 4vw;
+    overflow: visible;
+  }
+  
+  .box {
+    width: 100%;
+    padding-bottom: 100%;
+  }
+
+  .boxInner {
+    left: 1.5vw;
+    right: 1.5vw;
+    top: 2.25vw;
+    bottom: 2.25vw;
+  }
+  
+}
