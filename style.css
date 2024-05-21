@@ -113,7 +113,7 @@ p {
 }
 
 .listIndent-1 ul {
-  padding: 1vw 0 1vw 6vw;
+  padding: .75vw 0 1vw 6vw;
 }
 
 /* === POEM === */
@@ -203,6 +203,10 @@ p {
   .writings ul {
     padding: 2vw 0 2vw 16vw;
   }
+
+  .listIndent-1 ul {
+    padding: 1.5vw 0 2vw 12vw;
+  }
   
   /* ===== POEM ===== */
   
@@ -238,7 +242,11 @@ p {
 @media (max-width: 480px) {
 
   .writings ul {
-    padding: 2vw 0 2vw 32vw;
+    padding: 2vw 0 2vw 24vw;
+  }
+
+  .listIndent-1 ul {
+    padding: 1.5vw 0 2vw 18vw;
   }
   
 }
