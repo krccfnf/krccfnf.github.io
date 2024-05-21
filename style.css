@@ -100,7 +100,7 @@ p {
 /* === WRITINGS === */
 
 .writings ul {
-  padding: 2vw 0 1vw 8vw;
+  padding: 1vw 0 1vw 8vw;
 }
 
 .writings li {
@@ -142,7 +142,7 @@ p {
   border: 0;
   height: 1px;
   background: #000;
-  margin: 2vw 0 2vw 4vw;
+  margin: 1vw 0 2vw 4vw;
   width: 20%;
 }
 
@@ -201,7 +201,7 @@ p {
   }
   
   .writings ul {
-    padding: 0 0 2vw 16vw;
+    padding: 2vw 0 2vw 16vw;
   }
   
   /* ===== POEM ===== */
