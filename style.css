@@ -100,7 +100,7 @@ p {
 /* === WRITINGS === */
 
 .writings ul {
-  padding: 0 0 1vw 8vw;
+  padding: 2vw 0 1vw 8vw;
 }
 
 .writings li {
@@ -110,6 +110,10 @@ p {
 .writings h2 {
   font-size 2.35em;
   padding: 1vw 0 0 4vw;
+}
+
+.listIndent-1 ul {
+  padding-left: 4vw;
 }
 
 /* === POEM === */
