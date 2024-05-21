@@ -113,7 +113,7 @@ p {
 }
 
 .listIndent-1 ul {
-  padding: .75vw 0 1vw 6vw;
+  padding: .75vw 2vw 1vw 6vw;
 }
 
 /* === POEM === */
@@ -205,7 +205,7 @@ p {
   }
 
   .listIndent-1 ul {
-    padding: 1.5vw 0 2vw 12vw;
+    padding: 1.5vw 6vw 2vw 12vw;
   }
   
   /* ===== POEM ===== */
@@ -246,7 +246,7 @@ p {
   }
 
   .listIndent-1 ul {
-    padding: 1.5vw 0 2vw 18vw;
+    padding: 1.5vw 9vw 2vw 18vw;
   }
   
 }
@@ -267,11 +267,6 @@ p {
 }
 
 /* === NEW WRITINGS TILES -- Modified from code by Nathan Rohler. === */
-
-footer {
-  position: absolute;
-  bottom: 0;
-}
 
 .indent2 {
   overflow: hidden;
@@ -326,7 +321,6 @@ footer {
 
   .indent2 {
     padding: 0 6vw 4vw 4vw;
-    overflow: visible;
   }
   
   .box {
@@ -339,6 +333,7 @@ footer {
     right: 1.5vw;
     top: 2.25vw;
     bottom: 2.25vw;
+    overflow: visible;
   }
   
 }
