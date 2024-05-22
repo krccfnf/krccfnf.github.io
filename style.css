@@ -35,7 +35,7 @@ h2 {
 
 p {
   font-size: 1.35em;
-  padding: 0 0 1vw 2vw;
+  padding: 0 1vw 1vw 2vw;
 }
 
 .indent {
@@ -98,10 +98,6 @@ p {
 }
 
 /* === WRITINGS === */
-
-.writings p {
-  padding-right: 20vw;
-}
 
 .writings ul {
   padding: 1vw 0 1vw 8vw;
