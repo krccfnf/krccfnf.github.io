@@ -167,7 +167,7 @@ p {
     padding: 0 0 2vw 0;
   }
   
-  p {
+  .writings p {
     padding: 0 2vw 2vw 4vw;
   }
   
@@ -241,6 +241,10 @@ p {
 
 @media (max-width: 480px) {
 
+  .writings p {
+    padding: 0 4vw 2vw 4vw;
+  }
+  
   .writings ul {
     padding: 2vw 0 2vw 24vw;
   }
