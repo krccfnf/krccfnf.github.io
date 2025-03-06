@@ -161,20 +161,20 @@ p {
   font-size: 1.35em;
 }
 
-/* .poem */ .hanging-first p {
+.poem .hanging-first p {
   padding-left: 12vw;
   text-indent: -4vw;
   padding-bottom:0vw;
 }
 
-/* .poem */ .hanging-mid p {
+.poem .hanging-mid p {
   padding-left: 12vw;
   text-indent: -4vw;
   padding-top: 0vw;
   padding-bottom: 0vw;
 }
 
-/* .poem */ .hanging-last p {
+.poem .hanging-last p {
   padding-left: 12vw;
   text-indent: -4vw;
   padding-top: 0vw;
