@@ -162,21 +162,21 @@ p {
 }
 
 .poem .hanging-first p {
-  padding-left: 12vw;
-  text-indent: -4vw;
+  padding-left: 6vw;
+  text-indent: -2vw;
   padding-bottom:0vw;
 }
 
 .poem .hanging-mid p {
-  padding-left: 12vw;
-  text-indent: -4vw;
+  padding-left: 6vw;
+  text-indent: -2vw;
   padding-top: 0vw;
   padding-bottom: 0vw;
 }
 
 .poem .hanging-last p {
-  padding-left: 12vw;
-  text-indent: -4vw;
+  padding-left: 6vw;
+  text-indent: -2vw;
   padding-top: 0vw;
 }
 
@@ -258,6 +258,21 @@ p {
 
   .origPub p {
     padding: 2vw 0 2vw 0;
+  }
+
+  .poem .hanging-first p {
+    padding-left: 12vw;
+    text-indent: -4vw;
+  }
+
+  .poem .hanging-mid p {
+    padding-left: 12vw;
+    text-indent: -4vw;
+  }
+
+  .poem .hanging-last p {
+    padding-left: 12vw;
+    text-indent: -4vw;
   }
   
 }
